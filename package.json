@@ -29,7 +29,7 @@
     "balance-text": "^3.3.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
-    "date-fns": "^3.0.1",
+    "date-fns": "^3.6.0",
     "framer-motion": "^10.16.16",
     "lucide-react": "^0.299.0",
     "react": "^18.2.0",
